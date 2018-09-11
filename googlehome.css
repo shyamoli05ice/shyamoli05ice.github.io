@@ -1,0 +1,40 @@
+body {
+  margin: 0;padding: 0;font-family: 'Roboto', sans-serif;
+	}
+
+header {width: 100%;}
+
+ul {list-style: none;}
+
+#nav_bar {float: right;}
+
+#nav_bar li {display: inline-block;padding: 8px;}
+
+.nav-links {color: Gray25;}
+
+a {text-decoration: none;color: inherit;}
+
+li.nav-links a:hover {text-decoration: underline;}
+
+.google #google_logo {text-align: center;display: block;margin: 0 auto;clear: both;padding-top: 80px;padding-bottom: 20px;}
+
+.form {text-align: center;}
+
+#form-search { width: 450px;line-height: 35px;padding: 0px 20px;}
+
+.form #form-search {padding: 0 8px;}
+
+.icon {padding: 10px;background: dodgerblue;color: white;min-width: 50px;text-align: centr;}
+
+.buttons {text-align: center;padding-top: 30px;margin-bottom: 100px;}
+
+
+footer  {background: #Gray95;border-top: solid 2px Whisper;bottom: 0;padding-bottom: 0;width: 100%;}
+
+footer ul li {display: inline;color: Gray40;font-size: 14px;padding: 13px;}
+
+footer ul {float: left;padding: 1px;}
+
+footer ul a:hover {text-decoration: underline;}
+
+.footer-right {float: right;}
